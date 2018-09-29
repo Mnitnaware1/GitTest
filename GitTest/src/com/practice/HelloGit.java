@@ -6,7 +6,7 @@ public class HelloGit {
 		// TODO Auto-generated method stub hghkghkg
 		String[] names = { "Bilbo", "Frodo", "Aragon", "Legolas", "Gundalf" };
 		for (String string : names) {
-			System.err.println("khkljsaf");
+			System.err.println(string);
 		}
 	}
 
