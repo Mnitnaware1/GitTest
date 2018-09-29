@@ -4,9 +4,9 @@ public class HelloGit {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		String[] names = { "Bilbo", "Frodo", "Aragon", "Legolas", "Gundalf" };
-		for (int i = 0; i < names.length; i++) {
-			System.out.println("Hello names" + names);
+		String[] names = { "Bilbo", "Frodo", "Aragon", "Legolas", "Gundalf","felomo","helomo" };
+		for (String string : names) {
+			System.out.println(string);
 		}
 	}
 
